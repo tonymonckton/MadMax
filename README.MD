@@ -11,10 +11,9 @@ A mad max style game.
 
 # Todo
 
-  - new terrain
-  - skybox
   - car AI
-  - track splines
+  - collsion detection
+  - explostions
 
 # unity Package
     http:://www.tonymonckton.co.uk/github/MadMax2.1.unitypackage
