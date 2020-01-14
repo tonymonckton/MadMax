@@ -22,7 +22,8 @@ A mad max style game.
     
 # Screenshots
 
-![madmax](http://www.tonymonckton.co.uk/github/max1.jpg)
-![madmax](http://www.tonymonckton.co.uk/github/max2.jpg)
-![madmax](http://www.tonymonckton.co.uk/github/max3.jpg)
+![madmax](http://www.tonymonckton.co.uk/github/2.jpg)
+![madmax](http://www.tonymonckton.co.uk/github/4.jpg)
+![madmax](http://www.tonymonckton.co.uk/github/5.jpg)
+![madmax](http://www.tonymonckton.co.uk/github/6.jpg)
 
