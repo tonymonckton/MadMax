@@ -16,7 +16,7 @@ A mad max style game.
   - explostions
 
 # unity Package
-    http:://www.tonymonckton.co.uk/github/MadMax2.1.unitypackage
+  contact me, for working demo.
     
     
 # Screenshots
