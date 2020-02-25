@@ -2,7 +2,7 @@
 
 A mad max style game.
 
-  - Unity 5.6
+  - Unity 5.6 C#
 
 # Features!
 
