@@ -24,6 +24,5 @@ A mad max style game.
 ![madmax](max5.jpg)
 ![madmax](max4.jpg)
 ![madmax](max3.jpg)
-![madmax](max2.jpg)
 ![madmax](max1.jpg)
 
